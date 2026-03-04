@@ -1,4 +1,6 @@
-# makesomething-kpop-1sec-quiz
+# game-kpop-1sec-quiz
+
+2026-03-05 using codex more
 
 2026-03-04 using codex [prototype link](https://skill-deploy-7nia7eolvx-codex-agent-deploys.vercel.app/)
 
